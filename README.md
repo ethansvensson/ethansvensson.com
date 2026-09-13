@@ -1,2 +1,0 @@
-# ethansvensson.com
-portfolio website 
